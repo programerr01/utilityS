@@ -1,2 +1,2 @@
 # utilityS
-Implementation of common Utility programs of Unix
+Implementation of common Utility programs for Unix
